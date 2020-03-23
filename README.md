@@ -43,7 +43,7 @@
    * 部署
 
    ```bash
-   $ cd nextcloud
+   $ cd rpi-nextcloud
    $ bash init_dir.sh
    $ docker-compose up -d
    ```
